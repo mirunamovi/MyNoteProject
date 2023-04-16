@@ -11,7 +11,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/alin1k/GT-first-project.git
+  git clone https://github.com/mirunamovi/MyNoteProject.git
 ```
 ### Server
 In Terminal go to the project directory
