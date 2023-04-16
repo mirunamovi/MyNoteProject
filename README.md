@@ -14,7 +14,7 @@ Clone the project
   git clone https://github.com/mirunamovi/MyNoteProject.git
 ```
 ### Server
-In Terminal go to the project directory
+In the Terminal go to the project directory
 
 ```bash
   cd backend
@@ -32,7 +32,7 @@ Start the server
   node Server.js
 ```
 ### React
-Open Command Prompt and to the project directory
+Open Command Prompt and go to the project directory
 
 ```bash
   cd frontend
